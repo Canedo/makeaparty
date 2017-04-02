@@ -3060,8 +3060,6 @@ body {
   animation-delay: 700ms !important; }
 
 body {
-  background: url(../img/background.jpg) no-repeat center fixed;
-  background-size: cover;
   font-family: 'Poppins', sans-serif;
   font-weight: 200; }
 
