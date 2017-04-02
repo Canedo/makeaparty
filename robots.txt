@@ -1,7 +1,8 @@
 ---
-layout: null
 permalink: robots.txt
+layout: 
 ---
+
 {% assign noindexPages = site.pages | where: 'sitemap', false %}
 User-agent: *
 {% if noindexPages %}
