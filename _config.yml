@@ -12,7 +12,7 @@ email: contato.makeaparty@gmail.com
 description: Make a Party
 name: Igor Canedo e Caroline de Lima
 author: Igor Canedo
-baseurl: ''
+baseurl: 
 url: http://makeapartyscrap.com
 gems:
 - jekyll-seo-tag
